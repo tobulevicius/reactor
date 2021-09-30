@@ -10,9 +10,9 @@ This tool was born out of frustration on my end when creating new personal proje
 `npx @tobulevicius/reactor [options]`
 
 ## Options
-### `--typescript` or `-t`
-Creates a TypeScript enabled React project. If this option is not supplied the project will default to JavaScript.
-### `--tailwind` or `-tw`
+`--typescript` or `-t`  
+Creates a TypeScript enabled React project. If this option is not supplied the project will default to JavaScript.  
+`--tailwind` or `-tw`  
 Enables Tailwind installation and configuration. If this option is not supplied the project will not have Tailwind configured.
 
 ## Examples
