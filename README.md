@@ -1,4 +1,10 @@
 # Reactor
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)]() 
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/tobulevicius/reactor)
+
+[![npm version](https://badge.fury.io/js/@tobulevicius%2Freactor.svg)](https://www.npmjs.com/package/@tobulevicius/reactor)
 
 Reactor is a tool that sits on top of create-react-app and configures Tailwind and Craco to create ready-to-use TypeScript or JavaScript, Tailwind projects.
 
