@@ -1,7 +1,7 @@
 {
   "name": "@tobulevicius/reactor",
-  "version": "1.1.0",
-  "description": "",
+  "version": "1.1.1",
+  "description": "NPM Package for that removes the hassle of setting up Tailwind for your React projects.",
   "exports": "./src/index.js",
   "keywords": [
     "react",
@@ -10,7 +10,16 @@
     "project",
     "with"
   ],
-  "author": "Emilis Tobulevicius",
+  "author": {
+    "name": "Emilis Tobulevicius",
+    "email": "hi@emilis.co.uk"
+  },
+  "publishConfig":{"registry":"https://registry.npmjs.org"},
+  "homepage": "https://emilis.co.uk",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/tobulevicius/reactor.git"
+  },
   "license": "MIT",
   "bin": {
     "reactor": "./src/index.js"
