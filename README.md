@@ -1,5 +1,17 @@
-# Reactor
+# Reactor - Simplify the React and Tailwind symbiosis.
+
+	 ____                 _
+    |  _ \ ___  __ _  ___| |_ ___  _ __
+    | |_) / _ \/ _` |/ __| __/ _ \| '__|
+    |  _ <  __/ (_| | (__| || (_) | |
+    |_| \_\___|\__,_|\___|\__\___/|_|
+
+[![react](https://badges.aleen42.com/src/react.svg)](https://reactjs.org/)
+[![tailwind](https://badges.aleen42.com/src/tailwindcss.svg)](https://tailwindcss.com/)
+
+[![npm](https://badges.aleen42.com/src/npm.svg)](https://www.npmjs.com/package/@tobulevicius/reactor)
 [![npm version](https://badge.fury.io/js/@tobulevicius%2Freactor.svg)](https://www.npmjs.com/package/@tobulevicius/reactor)
+[![npm version](https://badgen.net/npm/dt/@tobulevicius/reactor)](https://www.npmjs.com/package/@tobulevicius/reactor)
 
 Reactor is a tool that sits on top of create-react-app and configures Tailwind and Craco to create ready-to-use TypeScript or JavaScript, Tailwind projects.
 
@@ -9,6 +21,10 @@ This tool was born out of frustration on my end when creating new personal proje
 
 ## Usage
 `npx @tobulevicius/reactor [options]`
+
+I recommend using this via npx for the cleanliness. It will do it's thing and then disappear before you know it. On the other hand, you can of course download the package and run it via:
+
+`reactor [options]`
 
 ## Options
 `--typescript` or `-t`  
@@ -22,3 +38,14 @@ Will create a React project that has TypeScript enabled and Tailwind installed a
 
 `npx @tobulevicius/reactor -tw`  
 Will create a JavaScript React project that has Tailwind installed and configured.
+
+---
+
+## Thanks!
+Thank you for any users of Reactor and for any support. This is an incredibly simple project, however I hope it makes like a little easier and gets your ideas flowing into code a little quicker!
+
+[![@tobulevicius](https://badgen.net/twitter/follow/tobulevicius)](https://twitter.com/tobulevicius)
+
+[![Generic badge](https://img.shields.io/badge/Thanks%20for%20using-Reactor-magenta.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/My%20website:-https://emilis.co.uk-deeppink.svg)](https://emilis.co.uk)
