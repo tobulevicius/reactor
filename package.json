@@ -14,11 +14,13 @@
     "name": "Emilis Tobulevicius",
     "email": "hi@emilis.co.uk"
   },
-  "publishConfig":{"registry":"https://registry.npmjs.org"},
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "homepage": "https://emilis.co.uk",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/tobulevicius/reactor.git"
+    "type": "git",
+    "url": "https://github.com/tobulevicius/reactor.git"
   },
   "license": "MIT",
   "bin": {

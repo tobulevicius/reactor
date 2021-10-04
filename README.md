@@ -42,10 +42,14 @@ Will create a JavaScript React project that has Tailwind installed and configure
 ---
 
 ## Thanks!
-Thank you for any users of Reactor and for any support. This is an incredibly simple project, however I hope it makes like a little easier and gets your ideas flowing into code a little quicker!
+Thank you for any users of Reactor and for any support. This is an incredibly simple project, however I hope it makes life a little easier and gets your ideas flowing into code a little quicker!
 
 [![@tobulevicius](https://badgen.net/twitter/follow/tobulevicius)](https://twitter.com/tobulevicius)
 
 [![Generic badge](https://img.shields.io/badge/Thanks%20for%20using-Reactor-magenta.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/My%20website:-https://emilis.co.uk-deeppink.svg)](https://emilis.co.uk)
+
+## Good-To-Knows
+### React installation instant failure.
+If the React installation step, or any of them for the matter, fails almost instantly with an exit code of 1. The highest likelyhood is that the folder that you ran the command in is not named to the NPM standard. Spaces and special characters in the name of the folder will cause issues in NPM.
